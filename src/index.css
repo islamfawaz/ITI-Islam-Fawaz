@@ -1,0 +1,27 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background-color: whitesmoke !important;
+}
+
+main{
+  padding: 2vw;
+}
+/* src/styles.css or in a CSS module */
+.btn-main {
+  background-color: #007bff; /* Adjust to your color */
+  color: white;
+  border: none;
+  padding: 0.5rem 1rem;
+  border-radius: 0.25rem;
+  font-size: 1rem;
+  cursor: pointer;
+}
+
+.btn-main:disabled {
+  background-color: #c0c0c0;
+  color: #fff;
+}

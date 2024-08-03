@@ -1,0 +1,30 @@
+{
+    "users": [
+      {
+        "id": "1",
+        "name": "Alice Johnson",
+        "jobtitle": "UX Designer"
+      },
+      {
+        "id": "2",
+        "name": "Bob Smith",
+        "jobtitle": "Software Engineer"
+      },
+      {
+        "id": "3",
+        "name": "Carol Williams",
+        "jobtitle": "Product Manager"
+      },
+      {
+        "id": "4",
+        "name": "David Brown",
+        "jobtitle": "Software Engineer"
+      },
+      {
+        "id": "5",
+        "name": "Islam Fawaz",
+        "jobtitle": "Software Engineer"
+      }
+    ]
+  }
+  
